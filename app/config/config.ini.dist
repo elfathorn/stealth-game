@@ -3,7 +3,7 @@ adapter  = Mysql
 host     = localhost
 username = xxxxxxxxx
 password = xxxxxxxxx
-dbname   = casting
+dbname   = stealthgame
 
 [application]
 controllersDir = ../app/controllers/
@@ -13,7 +13,7 @@ viewsDir       = ../app/views/
 pluginsDir     = ../app/plugins/
 libraryDir     = ../app/library/
 cacheDir       = ../app/cache/
-baseUri        = /casting/
+baseUri        = /StealthGame/
 
 [models]
 metadata.adapter = "Memory"
