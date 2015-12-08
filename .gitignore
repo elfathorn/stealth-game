@@ -5,3 +5,4 @@
 composer.lock
 /bower_components/
 public/bower_components/
+public/adminer.php
